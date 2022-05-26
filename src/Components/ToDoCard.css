@@ -1,0 +1,6 @@
+.todo__content {
+    text-align: start;
+    width: 70%;
+    padding-left: .3rem;
+    text-overflow: clip;
+}
