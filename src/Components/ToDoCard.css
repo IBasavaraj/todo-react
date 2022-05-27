@@ -4,3 +4,18 @@
     padding-left: .3rem;
     text-overflow: clip;
 }
+.todo__card {
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: center;
+    align-items: center;
+    border: .05rem solid rgba(74, 220, 236, 0.841);
+    border-radius: 5%;
+    width: 80%;
+    margin: .5rem auto;
+  }
+  
+  .todo__buttons {
+    text-align: end;
+    width: 30%;
+  }
